@@ -16,10 +16,9 @@ This project plays songs, shows dynamic song list, and handles basic play/pause 
 ---
 
 ## Tech Stack 🛠️
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla JS)  
-
+- HTML  
+- CSS 
+- JavaScript
 ---
 
 ## Folder Structure 📁
@@ -62,7 +61,3 @@ This project plays songs, shows dynamic song list, and handles basic play/pause 
 Made by Anika Shukla
 
 ---
-
-## License 📜
-This project is open source under the MIT License.
-
